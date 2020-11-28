@@ -1,1 +1,1 @@
-# buggy_project
+# buggy-project
